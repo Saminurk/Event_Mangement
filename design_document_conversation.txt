@@ -1,0 +1,40 @@
+Conversation Flow
+User:
+
+🎓 Campus Drive Assignment – Webknot Technologies
+(full challenge statement pasted with requirements: Admin Portal, Student App, Event reporting system, deliverables, deadline, etc.)
+
+Assistant:
+
+Explained step-by-step approach (assumptions, design doc, schema, APIs, workflows, queries, reports). Suggested deliverables.
+
+User:
+
+Backend we are using Django and fast API so which will be better for frontend
+
+Assistant:
+
+Compared Django Templates, React, Flutter/React Native. Recommended:
+
+React for Admin Portal (modern, clean UI).
+
+React PWA or Flutter for Student App (mobile-friendly).
+
+User:
+
+Give me all the details arcitechture and db design and also the flow of the data and the code required for it don’t missout anything
+
+Assistant:
+
+Delivered:
+
+System architecture (Django Admin + FastAPI APIs + React frontend).
+
+Database design (College, Student, Event, Registration, Attendance, Feedback).
+
+Data flow (event creation → registration → attendance → reporting).
+
+Prototype code (Django, FastAPI, React with API examples).
+
+Queries for reports (registrations, attendance %, feedback avg, top students).
+Also generated a working ZIP with code and docs.
